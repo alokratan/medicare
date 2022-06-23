@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/MEDICARE/static/css/main.5cc9ba87.css",
+    "main.css": "/MEDICARE/static/css/main.fc5d08cb.css",
     "main.js": "/MEDICARE/static/js/main.f76416c3.js",
     "static/media/doc.png": "/MEDICARE/static/media/doc.5637316c820a72289f68.png",
     "index.html": "/MEDICARE/index.html",
-    "main.5cc9ba87.css.map": "/MEDICARE/static/css/main.5cc9ba87.css.map",
+    "main.fc5d08cb.css.map": "/MEDICARE/static/css/main.fc5d08cb.css.map",
     "main.f76416c3.js.map": "/MEDICARE/static/js/main.f76416c3.js.map"
   },
   "entrypoints": [
-    "static/css/main.5cc9ba87.css",
+    "static/css/main.fc5d08cb.css",
     "static/js/main.f76416c3.js"
   ]
 }
