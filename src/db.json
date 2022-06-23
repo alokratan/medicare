@@ -1,0 +1,218 @@
+{
+    "data": [
+        {
+            "ID": 556,
+            "Name": "Ali Abedi Renani",
+            "Company": "Ali Abedi Renani",
+            "Reviews": "The company has the best and most friendly personel, who try to deliver the translations on-time and in the best quality.",
+            "email": "",
+            "rating": 5,
+            "datecreated": "2022-06-17T00:00:00.000000Z",
+            "Language": "English",
+            "Status": 1,
+            "link": "https:\/\/www.trustpilot.com\/reviews\/62ac22b7266eedb3c15bb668"
+        },
+        {
+            "ID": 555,
+            "Name": "Linda Bannerman",
+            "Company": "Failbrook Regional Health District",
+            "Reviews": "The health district is the smallest form of government so we have a small team. Having Tomedes interpretation service via Zoom at our meetings has been a life saver. I'm very pleased with the quality of the interpretation, especially since our meetings are virtual. The interpreters are always on time and have been a great help dealing with technical issues with Zoom. I really appreciate their commitment and service.",
+            "email": "",
+            "rating": 5,
+            "datecreated": "2022-06-12T00:00:00.000000Z",
+            "Language": "English",
+            "Status": 1,
+            "link": "https:\/\/goo.gl\/maps\/xsdQCX9KCCdQ7eFo8"
+        },
+        {
+            "ID": 554,
+            "Name": "Joe Partington",
+            "Company": "Dropsafe",
+            "Reviews": "I cannot recommend Tomedes Translation Services highly enough.  My company used them to translate our website and other documents into other languages; their service was exceptional, with the quote coming through within minutes, and the translation in a matter of days. The customer service and attention to detail by the team (but most of all our contact) was second to none.\r\nWe will not look anywhere else when requiring translations in the future - why try to top perfection?!",
+            "email": "",
+            "rating": 5,
+            "datecreated": "2022-06-14T00:00:00.000000Z",
+            "Language": "English",
+            "Status": 1,
+            "link": "https:\/\/goo.gl\/maps\/1U2e3oDtMkdnQUym8"
+        },
+        {
+            "ID": 553,
+            "Name": "Asta Rackauskaite",
+            "Company": "Asta Rackauskaite",
+            "Reviews": "Great working with Tomedes- quick replies, always there, working fast. Thank you!",
+            "email": "",
+            "rating": 5,
+            "datecreated": "2022-06-14T00:00:00.000000Z",
+            "Language": "English",
+            "Status": 1,
+            "link": "https:\/\/goo.gl\/maps\/LtkwK1swz3stW7J66"
+        },
+        {
+            "ID": 552,
+            "Name": "Mike Evans",
+            "Company": "Mike Evans",
+            "Reviews": "They worked with me on the price so I could get what I needed translated and also provided awesome follow up afterwards. I will be using them again if I need anything else translated. Great and very easy experience.",
+            "email": "",
+            "rating": 5,
+            "datecreated": "2022-06-15T00:00:00.000000Z",
+            "Language": "English",
+            "Status": 1,
+            "link": "https:\/\/goo.gl\/maps\/yLTAJWUwPkjH1UwG8"
+        },
+        {
+            "ID": 551,
+            "Name": "Robin",
+            "Company": "Robin",
+            "Reviews": "Great service! Always response quickly.",
+            "email": "",
+            "rating": 5,
+            "datecreated": "2022-06-04T00:00:00.000000Z",
+            "Language": "English",
+            "Status": 1,
+            "link": "https:\/\/www.trustpilot.com\/reviews\/629b0da135343b8f5b60db71"
+        },
+        {
+            "ID": 550,
+            "Name": "Alex Mulvey",
+            "Company": "Alex Mulvey",
+            "Reviews": "5 stars from YPR!\r\nTomedes has responded and gotten our documents returned to us super quick and with perfect translation. They are very easy to work with and we look forward to continuing to use their services for future projects.",
+            "email": "",
+            "rating": 5,
+            "datecreated": "2022-06-08T00:00:00.000000Z",
+            "Language": "English",
+            "Status": 1,
+            "link": "https:\/\/www.trustpilot.com\/reviews\/629fc1970031539b6138fb1d"
+        },
+        {
+            "ID": 549,
+            "Name": "Young Kuttam",
+            "Company": "Young Kuttam",
+            "Reviews": "Tomedes is a great company!\r\nI have conducted business with Tomedes since 2014. Tomedes is one of the best companies I have ever met. Fast response. punctual payment. very professional.",
+            "email": "",
+            "rating": 5,
+            "datecreated": "2022-06-10T00:00:00.000000Z",
+            "Language": "English",
+            "Status": 1,
+            "link": "https:\/\/www.trustpilot.com\/reviews\/62a283b16d54f92107117b87"
+        },
+        {
+            "ID": 548,
+            "Name": "bee saysamone",
+            "Company": "bee saysamone",
+            "Reviews": "Tomedes is the great company. Payment is fair enough.",
+            "email": "",
+            "rating": 5,
+            "datecreated": "2022-06-10T00:00:00.000000Z",
+            "Language": "English",
+            "Status": 1,
+            "link": "https:\/\/www.trustpilot.com\/reviews\/62a2b1af0031539b613b525c"
+        },
+        {
+            "ID": 547,
+            "Name": "kramm",
+            "Company": "kramm",
+            "Reviews": "Tomedes - Good Translation Company\r\nTomedes is a great partner. A good company. Their PMs are approachable. In fact, two of them are already my Skype friends (JC and Mark). We share our thoughts and project related information thru Skype.\r\n\r\nI am also happy with the deal I have received from them. The offers is very helpful for my billings. :-)\r\n\r\nFrom here on today, I can say I am seeing myself establishing a more depth partnership with Tomedes.",
+            "email": "",
+            "rating": 5,
+            "datecreated": "2022-06-10T00:00:00.000000Z",
+            "Language": "English",
+            "Status": 1,
+            "link": "https:\/\/www.trustpilot.com\/reviews\/62a2b1e86d54f9210711861c"
+        }
+    ],
+    "links": {
+        "self": "link-value",
+        "first": "https:\/\/admin.tomedes.com\/api\/v1\/get-reviews?page=1",
+        "last": "https:\/\/admin.tomedes.com\/api\/v1\/get-reviews?page=45",
+        "prev": null,
+        "next": "https:\/\/admin.tomedes.com\/api\/v1\/get-reviews?page=2"
+    },
+    "success": 1,
+    "meta": {
+        "current_page": 1,
+        "from": 1,
+        "last_page": 45,
+        "links": [
+            {
+                "url": null,
+                "label": "&laquo; Previous",
+                "active": false
+            },
+            {
+                "url": "https:\/\/admin.tomedes.com\/api\/v1\/get-reviews?page=1",
+                "label": "1",
+                "active": true
+            },
+            {
+                "url": "https:\/\/admin.tomedes.com\/api\/v1\/get-reviews?page=2",
+                "label": "2",
+                "active": false
+            },
+            {
+                "url": "https:\/\/admin.tomedes.com\/api\/v1\/get-reviews?page=3",
+                "label": "3",
+                "active": false
+            },
+            {
+                "url": "https:\/\/admin.tomedes.com\/api\/v1\/get-reviews?page=4",
+                "label": "4",
+                "active": false
+            },
+            {
+                "url": "https:\/\/admin.tomedes.com\/api\/v1\/get-reviews?page=5",
+                "label": "5",
+                "active": false
+            },
+            {
+                "url": "https:\/\/admin.tomedes.com\/api\/v1\/get-reviews?page=6",
+                "label": "6",
+                "active": false
+            },
+            {
+                "url": "https:\/\/admin.tomedes.com\/api\/v1\/get-reviews?page=7",
+                "label": "7",
+                "active": false
+            },
+            {
+                "url": "https:\/\/admin.tomedes.com\/api\/v1\/get-reviews?page=8",
+                "label": "8",
+                "active": false
+            },
+            {
+                "url": "https:\/\/admin.tomedes.com\/api\/v1\/get-reviews?page=9",
+                "label": "9",
+                "active": false
+            },
+            {
+                "url": "https:\/\/admin.tomedes.com\/api\/v1\/get-reviews?page=10",
+                "label": "10",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https:\/\/admin.tomedes.com\/api\/v1\/get-reviews?page=44",
+                "label": "44",
+                "active": false
+            },
+            {
+                "url": "https:\/\/admin.tomedes.com\/api\/v1\/get-reviews?page=45",
+                "label": "45",
+                "active": false
+            },
+            {
+                "url": "https:\/\/admin.tomedes.com\/api\/v1\/get-reviews?page=2",
+                "label": "Next &raquo;",
+                "active": false
+            }
+        ],
+        "path": "https:\/\/admin.tomedes.com\/api\/v1\/get-reviews",
+        "per_page": 10,
+        "to": 10,
+        "total": 441
+    }
+}
