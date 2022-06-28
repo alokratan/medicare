@@ -19,6 +19,7 @@ function Navb() {
     </div>
     <div className="social">
       <div className="soc">
+        
       <div className="google socialmedia"></div>
     <div className="face socialmedia"></div>
     <div className="twit socialmedia"></div>
