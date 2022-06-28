@@ -43,14 +43,11 @@ function Header() {
         <h6>We are on the leading edge of cancer care. Providing the full continuum of cancer treatments and supportive care services in a single convenient location.</h6>
         <div className="buttons"><button className='but1'>Make an Appointment</button><button className='but2'>Departments</button>
         </div>
-
-      </div>
-      <div className="headcon2">
+        </div>
+        <div className="headcon2">
         <div className="abc"></div>
       </div>
     </div>
-
-    
   </>
   )
 }

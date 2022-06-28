@@ -3,7 +3,8 @@ import React from 'react'
 function Bottom() {
   return (<>    
   
-  <div className="newslettermain"><div className="newsletter">
+  <div className="newslettermain">
+    <div className="abcd"></div><div className="newsletter">
 <h1>Subscribe to Newsletter</h1>
 <h6>We have a wide experience in experience design and strategy</h6>
 <div className="email">

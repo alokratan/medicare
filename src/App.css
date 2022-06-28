@@ -7,11 +7,9 @@
 }
 
 body{
- 
-  width: auto;
   display: flex;
-  justify-content:center;
-  align-items: center;
+  /* justify-content:center;
+  align-items: center; */
   flex-direction: column;
   background: rgb(238, 247, 250);
 }
@@ -25,7 +23,7 @@ body::before{
   border-radius: 50%;
   border: 70px solid rgb(255, 255, 255);
 
-  box-shadow: 0px 0px 20px rgb(187, 187, 187);
+  box-shadow: 0px 0px 20px rgb(187, 187, 187),inset 0 0 50px rgb(187, 187, 187);
 }
 
 
@@ -95,25 +93,24 @@ background-color: rgb(255, 255, 255);
 }
 
 .headmain{
-  background-color: rgba(250, 235, 215, 0);
+  /* background-color: rgb(250, 235, 215); */
   width: auto;
   height: 16cm;
   display: flex;
   flex-direction:row;
-  justify-items: center;
+  justify-content: space-evenly;
   align-items: center;
   z-index: 1;
 }
 
 .headcon{
-  background-color: #d3d3d300;
+  /* background-color: #692e2e; */
   width:450px;
   height: 6cm;
   display: flex;
-  margin:60px;
-  display: flex;
+ 
   flex-direction: column;
-  justify-items: flex-start;
+  justify-items: center;
   align-items: baseline;
 }
 .headcon2{
@@ -121,7 +118,6 @@ background-color: rgb(255, 255, 255);
   width:370px;
   height: 13cm;
   display: flex;
-  margin: 60px;
   flex-direction: column;
   justify-items: center;
   align-items: center;
@@ -325,10 +321,10 @@ font-size: 0.47cm;
 
 .clinic{
   height: 20cm;
-  width: 100%;
+  
   display: flex;
   flex-direction: row;
-  justify-content: flex-start;
+  justify-content:space-evenly;
   align-items: center;
   background-color: rgb(255, 255, 255);
 }
@@ -476,7 +472,7 @@ transform: translateY(235px);
 
 
 .medium1{
-  height:20cm;
+  height:14cm;
   display: flex;
   justify-content:baseline;
   align-items: stretch;
@@ -582,10 +578,31 @@ transform: translateX(-6.2cm);
 .newslettermain{
  
   display: flex;
-  justify-content: center;
-  align-items: flex-start;
+  justify-content:baseline;
+  align-items: center;
+  flex-direction: column;
   width: 100%;
-  height: 15cm;
+  height: 19cm;
+  
+}
+.abcd{ 
+  position:relative;
+  width: 310px;
+  height: 310px;
+
+}
+.abcd:before{ 
+  content: ' ';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  transform: translate(13cm,4.5cm);
+  border: 65px solid rgb(255, 255, 255);
+  border-radius: 50%;
+  z-index: -1;
+  box-shadow: 0 0 50px rgba(158, 189, 255, 0.815),inset 0 0 50px rgba(158, 189, 255, 0.788);
 }
 .newsletter{
   background-color:#0073FF;
@@ -597,6 +614,7 @@ transform: translateX(-6.2cm);
   height: 10cm;
   border-radius: 20px 20px;
 }
+
 .email{
   width: 20cm;
   height: 2.4cm;
@@ -626,6 +644,7 @@ height: 2cm;
 font-size: 0.50cm;
 color: rgb(0, 0, 0);
 padding: 20px;
+outline: none;
 }
 .emailbut{
 padding: 20px 40px;
@@ -641,7 +660,9 @@ color: white;
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-  height: 10cm;
+  height: 0.6cm;
+  margin: 85px;
+ 
 
 }
 .navig ul{
@@ -675,9 +696,17 @@ font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, O
 
 .social{
   display: flex;
+  width: 100%;
   height: 4cm;
-  background-color: rgb(255, 168, 168);
+  background-color: rgb(192, 196, 207);
+  padding-left: 2cm;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
 
+}
+.soc{
+  display: flex;
 }
 .socialmedia{
   background-size: 100%;
@@ -685,8 +714,8 @@ font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, O
   width: 1cm;
   height:1cm;
 background-color: #003B79;
-
 margin: 10px;
+border-radius: 50%;
 }
 .face{
   background-image: url(/src/images/Group\ 26.png);
@@ -698,8 +727,12 @@ margin: 10px;
   background-image: url(/src/images/Group\ 26\ Copy\ 2.png);
 }
 
-.social h6{
-  transform: translate(-160px,80px);
+.bottomline{
+
+height: 1cm;
+}
+.bottomline h6{
   font-size: 0.35cm;
   color: #003670;
+  padding: 15px 12px;
 }
