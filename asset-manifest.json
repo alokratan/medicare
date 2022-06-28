@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/medicares/static/css/main.830136e7.css",
-    "main.js": "/medicares/static/js/main.f76416c3.js",
-    "static/media/doc.png": "/medicares/static/media/doc.5637316c820a72289f68.png",
-    "index.html": "/medicares/index.html",
-    "main.830136e7.css.map": "/medicares/static/css/main.830136e7.css.map",
-    "main.f76416c3.js.map": "/medicares/static/js/main.f76416c3.js.map"
+    "main.css": "/MEDI/static/css/main.0d73b854.css",
+    "main.js": "/MEDI/static/js/main.f76416c3.js",
+    "static/media/doc.png": "/MEDI/static/media/doc.5637316c820a72289f68.png",
+    "index.html": "/MEDI/index.html",
+    "main.0d73b854.css.map": "/MEDI/static/css/main.0d73b854.css.map",
+    "main.f76416c3.js.map": "/MEDI/static/js/main.f76416c3.js.map"
   },
   "entrypoints": [
-    "static/css/main.830136e7.css",
+    "static/css/main.0d73b854.css",
     "static/js/main.f76416c3.js"
   ]
 }
